@@ -78,8 +78,8 @@ The system provides RESTful APIs for managing customers, items, and orders. Belo
     - **Request:**
       ```json
       {
-        "name": "Jane Doe",
-        "address": "456 Main St",
+        "name": "Deshan Nanayakkara",
+        "address": "Galle",
         "salary": 6000
       }
       ```
@@ -161,7 +161,3 @@ The API includes robust error handling mechanisms to return meaningful HTTP stat
 ## Conclusion
 
 This POS system offers a comprehensive solution for managing sales operations, making it ideal for businesses that need an efficient and scalable tool. With its RESTful API, the system can easily integrate with other platforms or services, providing flexibility and ease of use.
-
----
-
-This revised version introduces new sections like "Overview," "Getting Started," "Logging and Monitoring," and "Error Handling," and it reorganizes the content to give it a fresh structure. Let me know if there's anything else you'd like to tweak!
