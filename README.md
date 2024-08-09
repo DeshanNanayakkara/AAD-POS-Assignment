@@ -1,7 +1,3 @@
-Sure, bro! Let's mix things up a bit so that your documentation stands out from your friend's. Here's a revised version with a different structure and some additional content to make it unique.
-
----
-
 # POS System Documentation
 
 This documentation provides details on the POS (Point of Sale) system, which is designed for managing customers, items, and orders. The backend is built using Java Servlets and MySQL, offering a RESTful API for seamless operations.
